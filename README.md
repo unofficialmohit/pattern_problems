@@ -1,4 +1,4 @@
-# pattern_problems
+# Pattern Problems
 Solved Pattern Coding Questions in  C++ Language
 
 Pattern 1 : 
