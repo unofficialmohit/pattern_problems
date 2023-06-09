@@ -96,3 +96,7 @@ Pattern 19 :
 ![image](https://github.com/unofficialmohit/pattern_problems/assets/123811704/8db0dd4d-8632-45ad-86bc-15de1b044ea5)
 
 
+Program 20 :
+
+![image](https://github.com/unofficialmohit/pattern_problems/assets/123811704/abad3efe-a47e-4d7d-b37a-1aee8ab211ec)
+
