@@ -76,3 +76,23 @@ Pattern 15 :
 ![image](https://github.com/unofficialmohit/pattern_problems/assets/123811704/4edf7c5a-78f7-480d-8a30-9ba30f0adc15)
 
 
+Pattern 16 :
+
+![image](https://github.com/unofficialmohit/pattern_problems/assets/123811704/78d0b6b3-ece5-4587-b0c4-c58bbc77baed)
+
+
+Pattern 17 :
+
+![image](https://github.com/unofficialmohit/pattern_problems/assets/123811704/1c299530-6982-4d1c-bd6a-3374e58dd3ac)
+
+
+Pattern 18 :
+
+![image](https://github.com/unofficialmohit/pattern_problems/assets/123811704/6d3b8811-e243-4408-bc1c-aeb3f35df7bc)
+
+
+Pattern 19 :
+
+![image](https://github.com/unofficialmohit/pattern_problems/assets/123811704/8db0dd4d-8632-45ad-86bc-15de1b044ea5)
+
+
